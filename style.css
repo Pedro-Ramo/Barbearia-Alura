@@ -5,9 +5,33 @@ p {
 
 body {
      background: #CCCCCC;
+
+
+
+
+
+}
+#banner {
+
+ width: 100%;
+
 }
 
+
+h1 { 
+     text-align: center;
+}
+
+
+#missão {
+     
+       font-size: 20px;
+
+
+}
+
+
 em strong {
- color: red;
+ color: #FF0000;
 
 }
