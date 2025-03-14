@@ -21,9 +21,11 @@ body {
     background: #CCCCCC;
     padding: 30px;
 }
+.titulo-principal{
+     padding-left: 20px;
+}
 
-
-h1 { 
+.Titulo-Centralizado { 
      text-align: center;
 }
 p {
@@ -51,6 +53,17 @@ font-style: italic;
      background: #FFFFFF;
 }
 
- h2{
-     text-align: center;
+
+ 
+
+ ul {
+     display: inline-block;
+     vertical-align: top;
+     width: 20%;
+     margin-right: 15%;
+ }
+ .imagembeneficios
+  {
+
+     width: 50%;
  }
